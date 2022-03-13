@@ -1,0 +1,14 @@
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.exe
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.deps.json
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.runtimeconfig.json
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.runtimeconfig.dev.json
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.dll
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\bin\Debug\netcoreapp3.1\lessonTry.pdb
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.csproj.AssemblyReference.cache
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.AssemblyInfoInputs.cache
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.AssemblyInfo.cs
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.csproj.CoreCompileInputs.cache
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.dll
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.pdb
+D:\Programlama\CodeAcamedy\task-6\lessonTry\lessonTry\obj\Debug\netcoreapp3.1\lessonTry.genruntimeconfig.cache
