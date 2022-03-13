@@ -112,12 +112,14 @@ namespace lessonTry
             //    Console.Write(arr3[i]);
             //}
 
-            Array.Resize(ref arr, 7);
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[6] = 344;
-                Console.WriteLine(arr[i]);
-            }
+            //Array.Resize(ref arr, 7);
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    arr[6] = 344;
+            //    Console.WriteLine(arr[i]);
+            //}
+
+
 
 
             #endregion
